@@ -32,6 +32,7 @@ Ich mache eine **Umschulung zum Fachinformatiker für Anwendungsentwicklung** (I
 
 | Projekt | Worum es geht | Mein Anteil |
 |---|---|---|
+| [python-uebungen](https://github.com/benjaminbeisner/python-uebungen) | 18 eigene Übungen aus dem Python-Unterricht, von Schleifen bis OOP, GUI und Unit-Tests | Alles selbst geschrieben, mit automatischen Tests (GitHub Actions) |
 | [iSlave](https://github.com/benjaminbeisner/iSlave) | Klassenprojekt: Python-Terminalanwendung zur Steuerung eines Haushaltsroboters (8 Wochen, 6 Sprints, Scrum) | Module Nutzerverwaltung und Highscore mit pytest-Tests, Tests für das Akku-Modul, Programmablaufpläne, Klassendiagramm, Sprint-Protokolle |
 
 ### Was ich aus meinem bisherigen Berufsleben mitbringe
@@ -62,6 +63,7 @@ I am retraining as an **IT Specialist for Application Development** (Fachinforma
 
 | Project | What it is | My part |
 |---|---|---|
+| [python-uebungen](https://github.com/benjaminbeisner/python-uebungen) | 18 of my own exercises from Python class, from loops to OOP, GUI and unit tests | All written by me, with automated tests (GitHub Actions) |
 | [iSlave](https://github.com/benjaminbeisner/iSlave) | Class project: Python terminal application to control a household robot (8 weeks, 6 sprints, Scrum) | User management and highscore modules with pytest tests, tests for the battery module, flowcharts, class diagram, sprint minutes |
 
 ### What I bring from my previous career
