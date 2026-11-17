@@ -38,7 +38,7 @@ Ich mache eine **Umschulung zum Fachinformatiker für Anwendungsentwicklung** (I
 ### Was ich aus meinem bisherigen Berufsleben mitbringe
 
 - **Vertrieb:** Ich höre zu und übersetze Kundenwünsche in klare Anforderungen.
-- **Verantwortung:** Als Stadtjugendfeuerwehrwart bin ich für 9 Jugendfeuerwehren mit über 100 Mitglieder verantwortlich. Als Sicherheitsbeauftragter und Referent sind mir Sorgfalt und klare Kommunikation wichtig.
+- **Verantwortung:** Als Stadtjugendfeuerwehrwart bin ich für 9 Jugendfeuerwehren mit über 100 Mitgliedern verantwortlich. Als Sicherheitsbeauftragter und Referent sind mir Sorgfalt und klare Kommunikation wichtig.
 - **Dranbleiben:** Ob im Kundengespräch, im Einsatz oder beim Debuggen: Ich bleibe dran, bis die Lösung steht.
 
 *„Ich will Lösungen nicht nur besprechen, ich will sie bauen.“*
@@ -69,7 +69,7 @@ I am retraining as an **IT Specialist for Application Development** (Fachinforma
 ### What I bring from my previous career
 
 - **Sales:** I listen and translate customer needs into clear requirements.
-- **Responsibility:** As head of a city youth fire brigade I am responsible for 9 youth fire brigade with more than 100 members. As a safety officer and instructor, I value diligence and clear communication.
+- **Responsibility:** As head of a city youth fire brigade I am responsible for 9 youth fire brigades with more than 100 members. As a safety officer and instructor, I value diligence and clear communication.
 - **Persistence:** Whether in a customer meeting, on an emergency call or while debugging, I stay on it until the solution works.
 
 *"I don't just want to talk about solutions; I want to build them."*
